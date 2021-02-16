@@ -1505,12 +1505,12 @@ body {
 
 .logo-container {
 	max-height: 100px;
-	max-width: 300px;
+	max-width: 250px;
 }
 
 .logo-container img {
 	width: 100%;
-	max-width: 300px;
+	max-width: 250px;
 }
 
 @media screen and (max-width:1400px) {
