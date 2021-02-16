@@ -1092,7 +1092,7 @@ body {
 	font-size: 6.4rem;
 	font-weight: 400;
 	color: var(--primary-blue);
-	margin-top: 131px;
+	margin-top: 20px;
 	font-family: Heebo-Bold
 }
 
@@ -1100,7 +1100,7 @@ body {
 	.image-title .main_title {
 		font-size: 5.1rem;
 		line-height: 1.1;
-		margin-top: 121px
+		margin-top: 20px
 	}
 }
 
