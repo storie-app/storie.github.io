@@ -3,14 +3,12 @@
 
 var options = {
     strings: [
-        "I want to find better book recs",
         "I want to read with purpose",
-        "I want to diversify my reading",
-        "I want to be a well-rounded reader",
-        "I want to support BIPOC authors",
-        "I want to create a reading plan",
+        "I want to reduce stress in my life",
+        "I want to track my reading growth",
         "I want to read more consistently",
-        "I want to track my reading growth"
+        "I want to improve my memory",
+        "I want to create a reading plan",        
     ],
     typeSpeed: 60,
     backDelay: 3e3,

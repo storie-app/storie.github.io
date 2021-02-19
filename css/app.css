@@ -1404,6 +1404,7 @@ body {
 .image-third .image .section-image {
 	width: 100%;
 	max-width: 350px;
+	margin-top: 100px;
 	height: auto;
 }
 
