@@ -1176,7 +1176,7 @@ body {
 }
 
 .section-list .basic-list li {
-	max-width: 360px;
+	max-width: 300px;
 	color: var(--primary-charcoal);
 	flex: 1
 }
@@ -1267,14 +1267,14 @@ body {
 }
 
 .section-list .basic-list_text {
-	font-size: 1.8rem;
+	font-size: 2rem;
 	line-height: 1.45;
 	margin-top: 0
 }
 
 @media screen and (max-width:1400px) {
 	.section-list .basic-list_text {
-		font-size: 1.4rem
+		font-size: 1.8rem
 	}
 }
 
